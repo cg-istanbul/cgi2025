@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Combinatorics and Geometry in İstanbul
 ---
 
