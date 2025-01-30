@@ -9,4 +9,4 @@ title: Combinatorics and Geometry in İstanbul
 
 Welcome to the official website of the workshop **Combinatorics and Geometry in İstanbul**. More details will be available soon.
 
-Stay tuned!lk
+Stay tuned!
