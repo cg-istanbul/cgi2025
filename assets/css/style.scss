@@ -7,16 +7,16 @@
     background-size: cover;
 }
 
-/* Hide "View on GitHub" button */
+/* Hide "View on GitHub" button 
 header a[href*="github.com"] {
     display: none !important;
-}
+} */
 
 /* Style the "Speakers" button at the top */
 .top-speakers-btn {
     position: absolute;
     top: 20px;  /* Adjust the position */
-    left: 40%;
+    /* left: 40%; */
     display: inline-block;
     margin-bottom: 1rem;
     padding: 0.75rem 1rem;
