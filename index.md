@@ -79,6 +79,8 @@ To be announced!
 
 ## <a id="directions"></a>Directions
 
+pıu
+/*
 <div style="text-align: center;">
     <p style="margin: 0;"><strong>Bahçeşehir University South Campus</strong></p>
     <p style="margin: 0;">Yıldız, Çırağan Cd., 34349 Beşiktaş/İstanbul</p>
@@ -90,7 +92,7 @@ To be announced!
         width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy">
     </iframe>
 </div>
-
+*/
 
 
 ## <a id="contact"></a>Contact Us
