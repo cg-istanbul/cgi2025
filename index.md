@@ -98,7 +98,9 @@ To be announced!
 ## <a id="contact"></a>Contact Us
 
 For any inquiries, feel free to contact us at:  
-[**cgi2025workshop@gmail.com**](mailto:cgi2025workshop@gmail.com)
+<div style="text-align: center;">
+    <p style="margin: 0;">[**cgi2025workshop@gmail.com**](mailto:cgi2025workshop@gmail.com)</p>
+</div>
 
 
 ## <a id="sponsors"></a>Sponsors
