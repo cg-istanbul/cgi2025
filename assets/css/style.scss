@@ -3,12 +3,8 @@
 
 @import "{{ site.theme }}";
 .page-header {
-    background: url('/cgi2025/assets/images/header-bg.jpg') no-repeat center center;
+    background: url('/cgi2025/assets/images/cgi.jpg') no-repeat center center;
     background-size: cover;
-}
-
-.header {
-    min-height: 500px; /* Adjust this value as needed */
 }
 
 /* Hide "View on GitHub" button */
