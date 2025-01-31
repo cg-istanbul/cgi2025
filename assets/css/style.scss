@@ -6,3 +6,20 @@
     background: url('/cgi2025/assets/images/header-bg.jpg') no-repeat center center;
     background-size: cover;
 }
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #159957; /* Cayman theme's green color */
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #138a4e; /* Darker green for hover effect */
+}
