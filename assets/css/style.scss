@@ -71,28 +71,33 @@ html {
 }
 
 .centered-text {
-    text-align: center; /* Centers the text horizontally */
-    font-size: 1.2rem;  /* Adjust size as needed */
-    margin: 20px 0;     /* Adjust margin to position it well */
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;      /* Centers vertically */
+    height: 100vh;            /* Takes full height of the browser window */
+    font-size: 1.5rem;        /* Adjust font size as needed */
+    text-align: center;       /* Ensures text is centered within the div */
+    margin: 0;
 }
 
 .centered-link {
-    display: inline-block;  /* Makes the link behave like an inline block */
-    text-align: center;     /* Centers the text horizontally */
-    margin: 20px auto;      /* Adds vertical space and centers it */
-    font-size: 1.2rem;      /* Adjust font size as needed */
+    display: inline-block;  /* Ensures the link behaves like an inline block */
+    text-align: center;     /* Centers the text inside */
+    margin: 20px auto;      /* Centers it on the page with vertical space */
 }
 
 .centered-link a {
-    text-decoration: none;  /* Removes underline from the link */
-    color: #fff;            /* Adjust color as needed */
-    background-color: #007bff; /* Button-like background color */
-    padding: 10px 20px;     /* Adjust padding for the button look */
+    text-decoration: none;  /* Remove underline */
+    color: #fff;            /* White text color */
+    background-color: #28a745; /* Green background (matches Cayman theme) */
+    padding: 10px 20px;     /* Adjust padding to make it button-like */
     border-radius: 5px;     /* Rounded corners */
+    font-size: 1.2rem;      /* Adjust font size */
     transition: background-color 0.3s ease;
 }
 
 .centered-link a:hover {
-    background-color: #0056b3; /* Darker background on hover */
+    background-color: #218838; /* Darker green on hover */
 }
+
 
