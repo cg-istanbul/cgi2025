@@ -4,6 +4,8 @@
     <a href="#register" class="nav-button">Register</a>
     <a href="#schedule" class="nav-button">Schedule</a>
     <a href="#directions" class="nav-button">Directions</a>
+    <a href="#contact" class="nav-button">Contact</a>
+    <a href="#sponsors" class="nav-button">Sponsors</a>
 </div>
 
 Welcome to the "Combinatorics and Geometry in İstanbul" workshop, taking place on August 5 and 6 in the enchanting city of İstanbul. This two-day event is dedicated to bringing together researchers and enthusiasts in the fields of algebra, combinatorics, and geometry, fostering collaboration and the exchange of ideas in a vibrant academic setting.
@@ -94,7 +96,8 @@ To be announced!
 For any inquiries, feel free to contact us at:  
 [**cgi2025workshop@gmail.com**](mailto:cgi2025workshop@gmail.com)
 
-## Sponsors
+
+## <a id="sponsors"></a>Sponsors
 
 <div class="sponsor-container">
     <a href="https://www.navist.com.tr/" target="_blank">
