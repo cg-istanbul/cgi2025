@@ -8,7 +8,7 @@
 
 # Combinatorics and Geometry in İstanbul
 
-Welcome to the "Combinatorics and Geometry in Istanbul" workshop, taking place on August 5 and 6 in the enchanting city of Istanbul. This two-day event is dedicated to bringing together researchers and enthusiasts in the fields of algebra, combinatorics, and geometry, fostering collaboration and the exchange of ideas in a vibrant academic setting.
+Welcome to the "Combinatorics and Geometry in İstanbul" workshop, taking place on August 5 and 6 in the enchanting city of İstanbul. This two-day event is dedicated to bringing together researchers and enthusiasts in the fields of algebra, combinatorics, and geometry, fostering collaboration and the exchange of ideas in a vibrant academic setting.
 
 The mornings will be highlighted by talks from our invited speakers, who will share their latest insights and advancements in their respective fields. In the afternoons, we will host a series of contributed talks, offering participants an opportunity to present their work and spark meaningful discussions.
 
@@ -23,7 +23,7 @@ We are delighted to convene this event in such a unique and inspiring location a
 - Tolga Birdal (Imperial College London)
 - Martina Juhnke (University of Osnabrück)
 
-## <a id="Committee"></a>Scientific and Organising Committee
+## <a id="committee"></a>Scientific and Organising Committee
 
 - Kağan Kurşungöz (Sabancı University)
 - Müge Taşkın (Boğaziçi University)
@@ -32,50 +32,52 @@ We are delighted to convene this event in such a unique and inspiring location a
 
 ## <a id="register"></a>Registration
 
-Thanks to the generous support of our sponsors, the participation fee for the conference is only 400 TL. To register, please follow the steps below.
+## <a id="register"></a>Registration
 
-1. Payment Details
+Thanks to the generous support of our sponsors, the participation fee for the conference is only **400 TL**. To register, please follow the steps below.
+
+### 1. Payment Details
 
 Participants must transfer 400 TL to the following bank account:
 
-- Bank Account Information
-- Account Name: BAHÇEŞEHİR ÜNİVERSİTESİ
-- Bank Name: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE
-- IBAN: TR45 0013 4000 0019 9214 6006 78
+**Bank Account Information**
 
+- **Account Name**: BAHÇEŞEHİR ÜNİVERSİTESİ  
+- **Bank Name**: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE  
+- **IBAN**: TR45 0013 4000 0019 9214 6006 78
 
-Important:
+**Important:**
 
-    When making the payment, please include the following in the payment description:
-    "Name-Surname (CGI2025 participation fee)"
+- When making the payment, please include the following in the payment description:  
+  `"Name Surname (CGI2025 participation fee)"`
 
-    Keep a copy of your payment receipt, as you will need to upload it during registration.
+- Keep a copy of your payment receipt, as you will need to upload it during registration.
 
-2. Abstract Submission (Optional)
+### 2. Abstract Submission (Optional)
 
 If you would like to present a talk at the conference, please follow these steps:
 
-    1. Download the abstract template: Download abstract_template.tex 
-    2. Format your abstract using this template.
-    3. Upload your abstract file during the registration process.
+1. Download the abstract template: [Download abstract_template.tex](#)  
+2. Format your abstract using this template.  
+3. Upload your abstract file during the registration process.
 
-Talk Duration: Each accepted talk will be 30 minutes long, including Q&A.
+**Talk Duration**: Each accepted talk will be **30 minutes** long, including Q&A.
 
-3. Complete Your Registration
+### 3. Complete Your Registration
 
 Click the link below to proceed with registration. You will be asked to fill in your details and upload the required documents.
 
-Register Now
+[Register Now](#)
 
 You will need to upload:
-    - Your bank payment receipt
-    - Your abstract_template.tex file (only if you are giving a talk)
+- Your bank payment receipt
+- Your abstract_template.tex file (only if you are giving a talk)
 
-4. Contact Us
+### 4. Contact Us
 
-For any inquiries, feel free to contact us at:
+For any inquiries, feel free to contact us at:  
+**cg.istanbul@eng.bau.edu.tr**
 
-    cg.istanbul@eng.bau.edu.tr
 
 ## <a id="schedule"></a>Schedule
 
