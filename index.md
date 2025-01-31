@@ -47,8 +47,10 @@ Participants must transfer 400 TL to the following bank account:
 
 **Important:**
 
-- When making the payment, please include the following in the payment description:  
-  `"Name Surname (CGI2025 participation fee)"`
+- When making the payment, please include the following in the payment description:
+<div class="centered-text">
+    `"Name Surname (CGI2025 participation fee)"`
+</div>  
 
 - Keep a copy of your payment receipt, as you will need to upload it during registration.
 
@@ -66,7 +68,9 @@ If you would like to present a talk at the conference, please follow these steps
 
 Click the link below to proceed with registration. You will be asked to fill in your details and upload the required documents.
 
-[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview){:target="_blank"}
+<div class="centered-link">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview" target="_blank">Register Now</a>
+</div>
 
 You will need to upload:
 - Your bank payment receipt
