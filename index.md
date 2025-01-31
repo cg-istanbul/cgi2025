@@ -73,7 +73,8 @@ You will need to upload:
 ### 4. Contact Us
 
 For any inquiries, feel free to contact us at:  
-**cg.istanbul@eng.bau.edu.tr**
+[**cg.istanbul@eng.bau.edu.tr**](mailto:cg.istanbul@eng.bau.edu.tr)
+
 
 
 ## <a id="schedule"></a>Schedule
