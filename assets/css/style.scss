@@ -7,16 +7,17 @@
     background-size: cover;
 }
 
-/* Hide "View on GitHub" button 
+Hide "View on GitHub" button 
 header a[href*="github.com"] {
     display: none !important;
-} */
+}
 
-/* Style the "Speakers" button at the top */
-.top-speakers-btn {
+/* Style the top navigation bar */
+.top-nav {
     position: absolute;
-    top: 20px;  /* Adjust the position */
-    /* left: 40%; */
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
     display: inline-block;
     margin-bottom: 1rem;
     padding: 0.75rem 1rem;
@@ -33,7 +34,20 @@ header a[href*="github.com"] {
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
 
-.top-speakers-btn:hover {
+/* Style the navigation buttons */
+.nav-button {
+    color: white;
+    background-color: #2d2d2d;
+    padding: 8px 14px;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    transition: background 0.3s, border 0.3s;
+}
+
+.nav-button:hover {
     color: rgba(255, 255, 255, 0.8);
     background-color: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.3);
@@ -43,21 +57,3 @@ header a[href*="github.com"] {
 html {
     scroll-behavior: smooth;
 }
-
-/*
-.btn {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: #fff;
-    background-color: #159957;  
-    border-radius: 5px;
-    text-align: center;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-}
-
-.btn:hover {
-    background-color: #138a4e; 
-} */
