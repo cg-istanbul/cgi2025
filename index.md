@@ -68,7 +68,8 @@ Click the link below to proceed with registration. You will be asked to fill in 
 
 You will need to upload:
 - Your bank payment receipt
-- Your abstract_template.tex file as well as the compiled PDF file (only if you are giving a talk)
+- Your abstract_template.tex file (only if you are giving a talk)
+- Your compiled PDF file (only if you are giving a talk)
 
 ## <a id="schedule"></a>Workshop Schedule and Sessions  
 
