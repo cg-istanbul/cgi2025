@@ -70,5 +70,29 @@ html {
     transform: scale(1.1);
 }
 
+.centered-text {
+    text-align: center; /* Centers the text horizontally */
+    font-size: 1.2rem;  /* Adjust size as needed */
+    margin: 20px 0;     /* Adjust margin to position it well */
+}
 
+.centered-link {
+    display: inline-block;  /* Makes the link behave like an inline block */
+    text-align: center;     /* Centers the text horizontally */
+    margin: 20px auto;      /* Adds vertical space and centers it */
+    font-size: 1.2rem;      /* Adjust font size as needed */
+}
+
+.centered-link a {
+    text-decoration: none;  /* Removes underline from the link */
+    color: #fff;            /* Adjust color as needed */
+    background-color: #007bff; /* Button-like background color */
+    padding: 10px 20px;     /* Adjust padding for the button look */
+    border-radius: 5px;     /* Rounded corners */
+    transition: background-color 0.3s ease;
+}
+
+.centered-link a:hover {
+    background-color: #0056b3; /* Darker background on hover */
+}
 
