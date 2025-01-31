@@ -14,6 +14,9 @@ header a[href*="github.com"] {
 
 /* Style the "Speakers" button at the top */
 .top-speakers-btn {
+    position: absolute;
+    top: 20px;  /* Adjust the position */
+    left: 50%;
     display: inline-block;
     margin-bottom: 1rem;
     padding: 0.75rem 1rem;
