@@ -1,4 +1,4 @@
-<a href="#speakers" class="btn">Speakers</a>
+<a href="#speakers" class="top-speakers-btn">Speakers</a>
 
 # Combinatorics and Geometry in İstanbul
 
