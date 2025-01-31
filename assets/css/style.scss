@@ -14,23 +14,27 @@ header a[href*="github.com"] {
 
 /* Style the "Speakers" button at the top */
 .top-speakers-btn {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    padding: 8px 16px;
-    background-color: #2d2d2d;  /* Same as original Cayman button */
-    color: white;
-    font-size: 14px;
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
     font-weight: bold;
+    line-height: 1;
+    text-align: center;
     text-decoration: none;
-    border-radius: 5px;
-    border: 1px solid rgba(255,255,255,0.6);
-    transition: background 0.3s, border 0.3s;
+    white-space: nowrap;
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
 
 .top-speakers-btn:hover {
-    background-color: rgba(255,255,255,0.2);
-    border-color: white;
+    color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+    text-decoration: none;
 }
 
 html {
