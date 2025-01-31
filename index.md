@@ -2,6 +2,8 @@
 title: Combinatorics and Geometry in İstanbul
 ---
 
+<a href="#speakers" class="btn">Speakers</a>
+
 # Combinatorics and Geometry in İstanbul
 
 Welcome to the "Combinatorics and Geometry in Istanbul" workshop, taking place on August 5 and 6 in the enchanting city of Istanbul. This two-day event is dedicated to bringing together researchers and enthusiasts in the fields of algebra, combinatorics, and geometry, fostering collaboration and the exchange of ideas in a vibrant academic setting.
