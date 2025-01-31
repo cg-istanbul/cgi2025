@@ -53,3 +53,19 @@ html {
     scroll-behavior: smooth;
 }
 
+.sponsor-container {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.sponsor-logo {
+    max-width: 150px;  /* Adjust size */
+    margin: 0 15px;  /* Spacing between logos */
+    transition: transform 0.2s ease-in-out;
+}
+
+.sponsor-logo:hover {
+    transform: scale(1.1);
+}
+
+
