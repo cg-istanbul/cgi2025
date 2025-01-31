@@ -18,8 +18,12 @@ header a[href*="github.com"] {
     top: 20px;
     left: 50%;
     transform: translateX(-50%);
+    display: flex;
+    gap: 10px;  
+}
+
+.nav-button {
     display: inline-block;
-    margin-bottom: 1rem;
     padding: 0.75rem 1rem;
     font-size: 0.9rem;
     font-weight: bold;
@@ -32,19 +36,6 @@ header a[href*="github.com"] {
     border: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-}
-
-/* Style the navigation buttons */
-.nav-button {
-    color: white;
-    background-color: #2d2d2d;
-    padding: 8px 14px;
-    font-size: 14px;
-    font-weight: bold;
-    text-decoration: none;
-    border-radius: 5px;
-    border: 1px solid rgba(255, 255, 255, 0.6);
-    transition: background 0.3s, border 0.3s;
 }
 
 .nav-button:hover {
