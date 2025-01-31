@@ -56,7 +56,7 @@ If you would like to present a talk at the conference, please follow these steps
 
 1. Download the abstract template: [Download abstract_template.tex](https://www.dropbox.com/scl/fi/5vnj4nk6twyatkvpn986v/abstract_template.tex?rlkey=mod0a5iboivd1uw3xjjvfolyh&dl=1)
 2. Format your abstract using this template.  
-3. Upload your abstract file during the registration process.
+3. Upload your abstract file during the registration process (both TEX and PDF files).
 
 **Talk Duration**: Each accepted talk will be **30 minutes** long, including Q&A.
 
@@ -64,23 +64,25 @@ If you would like to present a talk at the conference, please follow these steps
 
 Click the link below to proceed with registration. You will be asked to fill in your details and upload the required documents.
 
-[Register Now](#)
+[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview)
 
 You will need to upload:
 - Your bank payment receipt
 - Your abstract_template.tex file (only if you are giving a talk)
-
-### 4. Contact Us
-
-For any inquiries, feel free to contact us at:  
-[**cg.istanbul@eng.bau.edu.tr**](mailto:cg.istanbul@eng.bau.edu.tr)
-
+- Your compiled PDF file (only if you are giving a talk)
 
 
 ## <a id="schedule"></a>Schedule
 
 To be announced!
 
+
 ## <a id="directions"></a>Directions
 
 Put here "map"
+
+
+## <a id="contact"></a>Contact Us
+
+For any inquiries, feel free to contact us at:  
+[**cgi2025workshop@gmail.com**](mailto:cgi2025workshop@gmail.com)
