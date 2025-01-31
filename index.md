@@ -30,7 +30,6 @@ We are delighted to convene this event in such a unique and inspiring location a
 - Nermine Ahmed El Sissi (Bahçeşehir University)
 - Selçuk Kayacan (Bahçeşehir University)
 
-## <a id="register"></a>Registration
 
 ## <a id="register"></a>Registration
 
