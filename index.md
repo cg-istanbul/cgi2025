@@ -93,3 +93,19 @@ To be announced!
 
 For any inquiries, feel free to contact us at:  
 [**cgi2025workshop@gmail.com**](mailto:cgi2025workshop@gmail.com)
+
+## Sponsors
+
+<div class="sponsor-container">
+    <a href="https://www.navist.com.tr/" target="_blank">
+        <img src="assets/images/navist.jpeg" alt="Sponsor 1" class="sponsor-logo">
+    </a>
+    <a href="https://tubitak.gov.tr/en" target="_blank">
+        <img src="assets/images/tubitak.png" alt="Sponsor 2" class="sponsor-logo">
+    </a>
+    <a href="https://bau.edu.tr/" target="_blank">
+        <img src="assets/images/bau.jpg" alt="Sponsor 3" class="sponsor-logo">
+    </a>
+</div>
+
+
