@@ -48,7 +48,7 @@ Participants must transfer 400 TL to the following bank account:
 **Important:**
 
 - When making the payment, please include the following in the payment description:
-- <span style="display: block; height: 1px;"></span>
+  <span style="display: block; height: 1px;"></span>
   `Name Surname (CGI2025 participation fee)`
 
 
