@@ -7,6 +7,10 @@
     background-size: cover;
 }
 
+.header {
+    min-height: 500px; /* Adjust this value as needed */
+}
+
 /* Hide "View on GitHub" button */
 header a[href*="github.com"] {
     display: none !important;
@@ -49,10 +53,3 @@ html {
     scroll-behavior: smooth;
 }
 
-.map-container {
-    margin-top: 20px; /* Creates space below the header */
-}
-
-.header + .content {
-    padding-top: 50px; /* Adjust as needed */
-}
