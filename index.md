@@ -64,7 +64,7 @@ If you would like to present a talk at the conference, please follow these steps
 
 Click the link below to proceed with registration. You will be asked to fill in your details and upload the required documents.
 
-[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview)
+[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview){:target="_blank"}
 
 You will need to upload:
 - Your bank payment receipt
