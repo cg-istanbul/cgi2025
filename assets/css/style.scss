@@ -7,7 +7,7 @@
     background-size: cover;
 }
 
-Hide "View on GitHub" button 
+/* Hide "View on GitHub" button */
 header a[href*="github.com"] {
     display: none !important;
 }
