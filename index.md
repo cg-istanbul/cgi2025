@@ -37,10 +37,10 @@ Thanks to the generous support of our sponsors, the participation fee for the co
 
 Participants must transfer 400 TL to the following bank account:
 
-Bank Account Information
-Account Name: BAHÇEŞEHİR ÜNİVERSİTESİ
-Bank Name: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE
-IBAN: TR45 0013 4000 0019 9214 6006 78
+- Bank Account Information
+- Account Name: BAHÇEŞEHİR ÜNİVERSİTESİ
+- Bank Name: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE
+- IBAN: TR45 0013 4000 0019 9214 6006 78
 
 
 Important:
