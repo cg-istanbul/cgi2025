@@ -1,8 +1,8 @@
+<a href="#speakers" class="btn">Speakers</a>
+
 ---
 title: Combinatorics and Geometry in İstanbul
 ---
-
-<a href="#speakers" class="btn">Speakers</a>
 
 # Combinatorics and Geometry in İstanbul
 
