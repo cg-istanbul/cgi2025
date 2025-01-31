@@ -48,3 +48,7 @@ header a[href*="github.com"] {
 html {
     scroll-behavior: smooth;
 }
+
+.map-container {
+    margin-top: 20px; /* Creates space below the header */
+}
