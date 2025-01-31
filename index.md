@@ -88,6 +88,7 @@ To be announced!
     <p style="margin: 0;">Yıldız, Çırağan Cd., 34349 Beşiktaş/İstanbul</p>
 </div>
 
+<br>
 
 <iframe 
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2691.847578638042!2d29.009259099999998!3d41.042165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7a2a2c3b963%3A0x7671d1b9817b8519!2zQmFow6dlxZ9laGlyIMOcbml2ZXJzaXRlc2k!5e1!3m2!1str!2str!4v1738333570411!5m2!1str!2str&t=m"
@@ -98,9 +99,10 @@ To be announced!
 ## <a id="contact"></a>Contact Us
 
 For any inquiries, feel free to contact us at:  
-<div style="text-align: center;">
-    <p style="margin: 0;">[**cgi2025workshop@gmail.com**](mailto:cgi2025workshop@gmail.com)</p>
-</div>
+
+<br>
+
+[**cgi2025workshop@gmail.com**](mailto:cgi2025workshop@gmail.com)
 
 
 ## <a id="sponsors"></a>Sponsors
