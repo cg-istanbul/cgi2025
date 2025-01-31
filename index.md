@@ -9,3 +9,11 @@ Welcome to the "Combinatorics and Geometry in Istanbul" workshop, taking place o
 The mornings will be highlighted by talks from our invited speakers, who will share their latest insights and advancements in their respective fields. In the afternoons, we will host a series of contributed talks, offering participants an opportunity to present their work and spark meaningful discussions.
 
 We are delighted to convene this event in such a unique and inspiring location and look forward to two days of stimulating academic exchange and collaboration.
+
+## Speakers
+
+- Volkmar Welker (Philipps-Universität Marburg)
+- Yusuf Civan (Süleyman Demirel University)
+- Ayesha Asloob Qureshi (Sabancı University)
+- Tolga Birdal (Imperial College London)
+- Martina Juhnke (University of Osnabrück)
