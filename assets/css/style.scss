@@ -54,18 +54,21 @@ html {
 }
 
 .sponsor-container {
-    text-align: center;
+    display: flex;
+    justify-content: center;  /* Center the logos */
+    gap: 20px;  /* Add space between logos */
     margin: 40px 0;
 }
 
 .sponsor-logo {
-    max-width: 150px;  /* Adjust size */
-    margin: 0 15px;  /* Spacing between logos */
+    max-width: 120px;  /* Smaller size */
+    max-height: 50px;  /* Keep the logos proportionally smaller */
     transition: transform 0.2s ease-in-out;
 }
 
 .sponsor-logo:hover {
     transform: scale(1.1);
 }
+
 
 
