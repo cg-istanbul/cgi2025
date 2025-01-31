@@ -54,7 +54,7 @@ Participants must transfer 400 TL to the following bank account:
 
 If you would like to present a talk at the conference, please follow these steps:
 
-1. Download the abstract template: <a href="https://github.com/cg-istanbul/cgi2025/raw/main/assets/abstract_template.tex" download>Download abstract_template.tex</a>
+1. Download the abstract template: [Download abstract_template.tex](https://www.dropbox.com/scl/fi/5vnj4nk6twyatkvpn986v/abstract_template.tex?rlkey=mod0a5iboivd1uw3xjjvfolyh&dl=1)
 2. Format your abstract using this template.  
 3. Upload your abstract file during the registration process.
 
