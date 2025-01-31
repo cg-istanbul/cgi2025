@@ -33,7 +33,7 @@ We are delighted to convene this event in such a unique and inspiring location a
 
 ## <a id="register"></a>Registration
 
-Thanks to the generous support of our sponsors, the participation fee for the conference is only **400 TL**. To register, please follow the steps below.
+Thanks to the generous support of our sponsors, the participation fee for the workshop is only **400 TL**. To register, please follow the steps below.
 
 ### 1. Payment Details
 
