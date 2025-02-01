@@ -21,7 +21,7 @@ We are delighted to convene this event in such a unique and inspiring location a
   
 - Martina Juhnke (University of Osnabrück)
   
-{% comment %} - Russ Woodroofe (University of Primorska FAMNIT) [TBC] {% endcomment %}
+- Russ Woodroofe (University of Primorska FAMNIT) [TBC]
 
 - Tolga Birdal (Imperial College London)
   
