@@ -17,11 +17,13 @@ We are delighted to convene this event in such a unique and inspiring location a
 
 ## <a id="speakers"></a>Invited Speakers
 
+- Ayesha Asloob Qureshi (Sabancı University)
+- Martina Juhnke (University of Osnabrück)
+{% comment %} - Russ Woodroofe (University of Primorska FAMNIT) [TBC] {% endcomment %}
+- Tolga Birdal (Imperial College London)
 - Volkmar Welker (Philipps-Universität Marburg)
 - Yusuf Civan (Süleyman Demirel University)
-- Ayesha Asloob Qureshi (Sabancı University)
-- Tolga Birdal (Imperial College London)
-- Martina Juhnke (University of Osnabrück)
+
 
 ## <a id="committee"></a>Scientific and Organising Committee
 
