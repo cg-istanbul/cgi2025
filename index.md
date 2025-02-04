@@ -50,7 +50,7 @@ We are delighted to convene this event in such a unique and inspiring location a
   
 - Selçuk Kayacan (Bahçeşehir University)
 
-<li><a href="#accommodation">Accommodation</a></li>
+## <a href="#accommodation"></a>Accommodation
 
 ### Hotels in the Beşiktaş Area
 
