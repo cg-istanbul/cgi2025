@@ -8,6 +8,7 @@
     <ul class="nav-links">
         <li><a href="#speakers">Speakers</a></li>
         <li><a href="#committee">Committee</a></li>
+        <li><a href="#accommodation">Accommodation</a></li>
         <li><a href="#register">Register</a></li>
         <li><a href="#schedule">Schedule</a></li>
         <li><a href="#directions">Directions</a></li>
@@ -49,6 +50,19 @@ We are delighted to convene this event in such a unique and inspiring location a
   
 - Selçuk Kayacan (Bahçeşehir University)
 
+<li><a href="#accommodation">Accommodation</a></li>
+
+### Hotels in the Beşiktaş Area
+
+For a comprehensive list of hotels in the Beşiktaş area, you may visit Booking.com or TripAdvisor.
+
+- [Booking.com](https://www.booking.com/district/tr/istanbul/besiktas.html){:target="_blank"}
+
+- [TripAdvisor](https://www.tripadvisor.com/HotelsNear-g293974-d2037618-Besiktas-Istanbul.html){:target="_blank"}
+
+### Reserved Rooms at BAU Kemerburgaz (Future) Campus
+
+We have reserved a limited number of rooms for participants from outside İstanbul at the BAU Kemerburgaz (Future) Campus. If you wish to stay in these accommodations, please indicate "Yes" to the corresponding question in the registration form. Additional details will be collected upon your affirmative response.
 
 ## <a id="register"></a>Registration
 
