@@ -61,7 +61,7 @@ html {
     color: white;
     cursor: pointer;
     position: absolute;
-    top: 20px;
+    top: 10px;
     right: 20px;
 }
 
@@ -83,7 +83,7 @@ html {
     }
 
     .menu-toggle {
-        display: block;
+        top: 5px; 
     }
 }
 
