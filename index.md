@@ -11,7 +11,8 @@
         <li><a href="#accommodation">Accommodation</a></li>
         <li><a href="#register">Register</a></li>
         <li><a href="#schedule">Schedule</a></li>
-        <li><a href="#directions">Directions</a></li>
+        <!--<li><a href="#directions">Directions</a></li>-->
+        <li><a href="#venue">Venue</a></li>
         <li><a href="#contact">Contact</a></li>
         <li><a href="#sponsors">Sponsors</a></li>
     </ul>
@@ -115,12 +116,13 @@ You will need to upload:
 To be announced!
 
 
-## <a id="directions"></a>Directions
+<!--## <a id="directions"></a>Directions-->
 
-### Workshop Venue
+## <a id="venue"></a>Workshop Venue
+
 <div style="text-align: center;">
     <p style="margin: 0;"><strong>Bahçeşehir University (BAU) South Campus</strong></p>
-    <p style="margin: 0;"><strong>Address</strong>: Yıldız, Çırağan Cd., 34349 Beşiktaş/İstanbul</p>
+    <p style="margin: 0;">Yıldız, Çırağan Cd., 34349 Beşiktaş/İstanbul</p>
 </div>
 <span style="display: block; height: -10px;"></span>
 <iframe 
