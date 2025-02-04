@@ -121,7 +121,7 @@ To be announced!
 
 <div style="text-align: center;">
     <p style="margin: 0;"><strong>Bahçeşehir University (BAU) South Campus</strong></p>
-    <p style="margin: 0;"><strong>Address</strong>strong>: Yıldız, Çırağan Cd., 34349 Beşiktaş/İstanbul</p>
+    <p style="margin: 0;"><strong>Address</strong>: Yıldız, Çırağan Cd., 34349 Beşiktaş/İstanbul</p>
 </div>
 <span style="display: block; height: -10px;"></span>
 <iframe 
