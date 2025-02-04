@@ -60,7 +60,7 @@ html {
     justify-content: space-between;
     align-items: center;
     background: rgba(0, 0, 0, 0.2); /* Semi-transparent background */
-    padding: 10px 20px;
+    padding: 5px 10px;
     position: absolute;
     width: 100%;
     top: 0;
@@ -72,7 +72,7 @@ html {
 .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: white;
+    color: lightgreen;
     text-decoration: none;
 }
 
@@ -147,19 +147,19 @@ html {
     }
 
     .navbar {
-        padding: 5px 10px; /* Decrease1padding for a smaller navbar */
+        padding: 5px 5px; /* Decrease1padding for a smaller navbar */
     }
 
     .navbar .navbar-brand {
-        font-size: 0.8rem; /* Smaller brand text */
+        font-size: 0.6rem; /* Smaller brand text */
     }
 
     .navbar .navbar-toggler {
-        font-size: 1rem; /* Make the hamburger icon smaller */
+        font-size: 0.7rem; /* Make the hamburger icon smaller */
     }
 
     .navbar .navbar-nav .nav-link {
-        font-size: 0.6rem; /* Smaller text for the nav links */
+        font-size: 0.5rem; /* Smaller text for the nav links */
     }
 }
 
