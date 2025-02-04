@@ -53,75 +53,97 @@ html {
     scroll-behavior: smooth;
 }
 
-.menu-toggle {
-    position: absolute;
-    top: 10px;  /* Adjust vertical position */
-    right: 20px;  /* Adjust horizontal position */
-    
-    /* Remove background color for a cleaner look */
-    background: none;
-    border: none;
-    
-    /* Set dimensions */
-    width: 30px;
-    height: 24px;
-    
-    /* Space between menu and title */
-    padding: 0;
+/* General Navbar Styling */
+.navbar {
     display: flex;
-    flex-direction: column;
     justify-content: space-between;
-    
-    /* Ensure visibility */
-    cursor: pointer;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 10px 20px;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
     z-index: 1000;
 }
 
-/* Style for the three lines */
+/* Logo */
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+/* Navigation Links */
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    color: #00ffcc; /* Highlight color */
+}
+
+/* Hamburger Menu Button */
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
 .menu-toggle span {
     display: block;
     width: 100%;
-    height: 4px;  /* Thickness of the lines */
-    background-color: rgba(255, 255, 255, 0.9);  /* White color */
-    border-radius: 2px;  /* Slightly rounded edges */
-    transition: all 0.3s ease-in-out;
+    height: 4px;
+    background-color: white;
+    border-radius: 2px;
 }
 
-/* Hover effect */
-.menu-toggle:hover span {
-    background-color: rgba(255, 255, 255, 1); /* Brighter on hover */
-}
+/* Mobile Styles */
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: flex; /* Show hamburger icon */
+    }
 
-.top-nav {
-    display: flex;
-    gap: 10px;
-}
-
-@media screen and (max-width: 768px) {
-    .top-nav {
+    .nav-links {
         display: none;
-        flex-direction: column;
         position: absolute;
-        background-color: rgba(0, 0, 0, 0.8);
         top: 50px;
-        right: 10px;
+        right: 0;
+        background: rgba(0, 0, 0, 0.8);
+        width: 200px;
+        flex-direction: column;
+        text-align: right;
         padding: 10px;
         border-radius: 5px;
     }
 
-    .menu-toggle {
-        display: block;
-        /* position: absolute;
-        top: 5px; 
-        right: 20px; 
-        background-color: rgba(0, 0, 0, 0.5);
-        padding: 5px;
-        border-radius: 5px; */
+    .nav-links.active {
+        display: flex;
     }
-}
 
-.top-nav.show {
-    display: flex;
+    .nav-links li {
+        padding: 10px;
+    }
 }
 
 
