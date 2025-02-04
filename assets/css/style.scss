@@ -16,6 +16,12 @@ footer {
     display: none !important;
 }
 
+.header-title {
+    position: relative;
+    top: 50px; /* Adjust this value to move it down */
+    text-align: center;
+}
+
 /* Style the top navigation bar */
 .top-nav {
     position: absolute;
@@ -58,7 +64,7 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    background: rgba(0, 0, 0, 0.1); /* Semi-transparent background */
     padding: 10px 20px;
     position: absolute;
     width: 100%;
