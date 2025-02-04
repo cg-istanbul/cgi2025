@@ -1,13 +1,21 @@
-<button class="menu-toggle">☰ Menu</button>
-<div class="top-nav">
-    <a href="#speakers" class="nav-button">Speakers</a>
-    <a href="#committee" class="nav-button">Committee</a>
-    <a href="#register" class="nav-button">Register</a>
-    <a href="#schedule" class="nav-button">Schedule</a>
-    <a href="#directions" class="nav-button">Directions</a>
-    <a href="#contact" class="nav-button">Contact</a>
-    <a href="#sponsors" class="nav-button">Sponsors</a>
-</div>
+<nav class="navbar">
+    <a href="#" class="logo">CGI 2025</a>
+    <button class="menu-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+    <ul class="nav-links">
+        <li><a href="#speakers">Speakers</a></li>
+        <li><a href="#committee">Committee</a></li>
+        <li><a href="#register">Register</a></li>
+        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#directions">Directions</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#sponsors">Sponsors</a></li>
+    </ul>
+</nav>
+
 
 Welcome to the "Combinatorics and Geometry in İstanbul" workshop, taking place on August 5 and 6 in the enchanting city of İstanbul. This two-day event is dedicated to bringing together researchers and enthusiasts in the fields of algebra, combinatorics, and geometry, fostering collaboration and the exchange of ideas in a vibrant academic setting.
 
