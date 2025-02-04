@@ -135,9 +135,10 @@ For any inquiries, feel free to contact us at:
     </a>
 </div>
 
+
 <script>
-document.querySelector(".menu-toggle").addEventListener("click", function () {
-    document.querySelector(".top-nav").classList.toggle("show");
+document.querySelector(".menu-toggle").addEventListener("click", function() {
+    document.querySelector(".nav-links").classList.toggle("active");
 });
 </script>
 
