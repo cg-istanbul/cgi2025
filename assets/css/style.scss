@@ -149,7 +149,24 @@ html {
     .nav-links li {
         padding: 10px;
     }
+
+    .navbar {
+        padding: 10px 20px; /* Decrease padding for a smaller navbar */
+    }
+
+    .navbar .navbar-brand {
+        font-size: 1.2rem; /* Smaller brand text */
+    }
+
+    .navbar .navbar-toggler {
+        font-size: 1.5rem; /* Make the hamburger icon smaller */
+    }
+
+    .navbar .navbar-nav .nav-link {
+        font-size: 0.9rem; /* Smaller text for the nav links */
+    }
 }
+
 
 
 .sponsor-container {
