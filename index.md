@@ -117,7 +117,9 @@ To be announced!
 
 ## <a id="directions"></a>Directions
 
+<!--
 ### Workshop Venue
+-->
 
 <div style="text-align: center;">
     <p style="margin: 0;"><strong>Bahçeşehir University (BAU) South Campus</strong></p>
@@ -129,15 +131,60 @@ To be announced!
     width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy">
 </iframe>  
 
+<!--
 ### How to Reach the Workshop Venue
 
 **From Istanbul Airport (IST) → BAU South Campus (Beşiktaş)**:
 
-- **Taxi**: Takes ~1 hr.
-- **Havaist Airport Shuttle**: Take **Havaist IST-5** to **Beşiktaş** (~1 hr).
+- **Taxi**: Available outside the terminal.
+- [**Havaist Airport Shuttle**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}
 
+**Sabiha Gökçen Airport (SAW) → BAU South Campus (Beşiktaş)**:
 
+- **Taxi**: Available outside the terminal.
+- [Havaist Airport Shuttle](https://???){:target="_blank"}
+-->
 
+<!-- Also we may mention about:
+    Metro & Bus:
+        1. Take M4 metro to Ayrılık Çeşmesi.
+        2. Transfer to Marmaray towards Sirkeci.
+        3. Take a ferry from Eminönü to Beşiktaş.
+
+From Istanbul Bus Station (Esenler Otogar) → BAU South Campus (Beşiktaş)
+
+    Metro & Bus:
+        1. Take M1A metro to Yenikapı.
+        2. Transfer to M2 metro to Taksim.
+        3. Take Bus DT2 or a Dolmuş to Beşiktaş.
+
+Getting an IstanbulKart (Public Transport Card)
+
+Why? It allows access to buses, metro, ferries, and trams.
+
+Where to buy?
+
+    - Kiosks near metro/bus stations
+    - IstanbulKart vending machines
+    - IstanbulKart Mobile App
+
+Top-up & Check Balance:
+
+    Use the IstanbulKart app:
+        - Play Store
+        - App Store
+
+Navigation Apps for Istanbul
+
+Istanbul Municipality’s Official Public Transport App
+
+    Istanbul Senin (İBB): Provides real-time transport info and route suggestions.
+        - Play Store
+        - App Store
+
+Google Maps & Moovit: Can also be useful, but asking a local is advised.
+
+-->
 
 
 ## <a id="contact"></a>Contact Us
