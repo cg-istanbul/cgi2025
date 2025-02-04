@@ -56,12 +56,30 @@ html {
 .menu-toggle {
     display: block;
     position: absolute;
-    top: 10px; /* Adjust this value to move the button up or down */
-    right: 20px; /* Adjust if needed */
-    /* Optional: Add background and padding for better visibility */
+    top: 6px; /* Adjust vertical position */
+    right: 20px; /* Adjust horizontal position */
+    
+    /* Make the background more transparent */
+    background-color: rgba(0, 0, 0, 0.3);  
+
+    /* Reduce padding for a smaller background */
+    padding: 6px 10px; 
+
+    /* Rounded edges */
+    border-radius: 5px; 
+
+    /* Improve text visibility */
+    color: rgba(255, 255, 255, 0.9);  
+    font-size: 1rem;
+    font-weight: bold;
+    
+    /* Ensure it appears on top */
+    z-index: 1000;  
+}
+
+/* Darker background on hover */
+.menu-toggle:hover {
     background-color: rgba(0, 0, 0, 0.5);
-    padding: 10px;
-    border-radius: 5px;
 }
 
 .top-nav {
