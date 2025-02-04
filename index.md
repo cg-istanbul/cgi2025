@@ -54,7 +54,7 @@ We are delighted to convene this event in such a unique and inspiring location a
 
 ### Hotels in the Beşiktaş Area
 
-For a comprehensive list of hotels in the Beşiktaş area, you may visit Booking.com or TripAdvisor.
+For a comprehensive list of hotels in the Beşiktaş area, you may visit:
 
 - [Booking.com](https://www.booking.com/district/tr/istanbul/besiktas.html){:target="_blank"}
 
