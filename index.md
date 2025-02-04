@@ -1,3 +1,4 @@
+<button class="menu-toggle">☰ Menu</button>
 <div class="top-nav">
     <a href="#speakers" class="nav-button">Speakers</a>
     <a href="#committee" class="nav-button">Committee</a>
