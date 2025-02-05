@@ -57,11 +57,11 @@ We are delighted to convene this event in such a unique and inspiring location a
 
 For a comprehensive list of hotels in the Beşiktaş area, you may visit:
 
-<!--- [Booking.com](https://www.booking.com/district/tr/istanbul/besiktas.html){:target="_blank"}-->
+<!--- [Booking.com](https://www.booking.com/district/tr/İstanbul/besiktas.html){:target="_blank"}-->
 
-- [Hotels.com](https://www.hotels.com/nh1661016/hotels-in-besiktas-istanbul-turkey/){:target="_blank"}
+- [Hotels.com](https://www.hotels.com/nh1661016/hotels-in-besiktas-İstanbul-turkey/){:target="_blank"}
   
-- [TripAdvisor](https://www.tripadvisor.com/HotelsNear-g293974-d2037618-Besiktas-Istanbul.html){:target="_blank"}
+- [TripAdvisor](https://www.tripadvisor.com/HotelsNear-g293974-d2037618-Besiktas-İstanbul.html){:target="_blank"}
 
 ### Reserved Rooms at BAU Kemerburgaz (Future) Campus
 
@@ -136,7 +136,7 @@ To be announced!
 ### How to Reach the Workshop Venue
 
 **From İstanbul Airport (IST):** 
-Official taxis are readily available at the airport exits for a convenient transfer to your destination. Alternatively, you can take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}, which provide reliable and affordable transportation options. For more detailed information, visit the official [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}.
+Official taxis are readily available at the airport exits for a convenient transfer to your destination. Alternatively, you can take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}, which provide reliable and affordable transportation options. For more detailed information, visit the official [**İstanbul Airport website**](https://İstanbul-international-airport.com/transportation/bus/){:target="_blank"}.
 
 Please note that the **M11 Metro Line** has not yet been extended to the airport, so metro access is currently unavailable for direct travel from IST.
 
@@ -151,7 +151,7 @@ Official taxis are available at the airport exits for a direct transfer to your 
 Another option is to take the **M4 Metro** to **Üsküdar** and then transfer to a ferry heading to **Beşiktaş**.
 
 
-**From Istanbul Bus Station (Esenler Otogar):** 
+**From İstanbul Bus Station (Esenler Otogar):** 
 Please note that Esenler Otogar is the main terminal for intercity buses. However, depending on your bus company, you may have the option to disembark at an earlier station, which could make transferring to Beşiktaş more convenient. Additionally, some bus companies offer complimentary shuttle services directly to Beşiktaş, so be sure to check with your provider.
 
 If you arrive at Esenler Otogar, you can follow this route to reach Beşiktaş:
@@ -162,35 +162,32 @@ If you arrive at Esenler Otogar, you can follow this route to reach Beşiktaş:
 
 3. From Taksim, take a bus (multiple lines are available) or a **Dolmuş** (shared taxi) to **Beşiktaş**.
 
-<!--
+### Using Public Transportation in İstanbul
 
-Getting an IstanbulKart (Public Transport Card)
+**İstanbulkart**
 
-Why? It allows access to buses, metro, ferries, and trams.
+The [İstanbulkart](https://www.istanbulkart.istanbul/){:target="_blank"} is a rechargeable card that provides easy access to almost all public transportation services in İstanbul, including metro, buses, trams, ferries, and more. It is widely available at kiosks and vending machines near transportation hubs.
 
-Where to buy?
+You can also manage your İstanbulkart using the official İstanbulkart App, which makes it easy to check your balance, recharge your card, and plan your trips. Download the app here:
 
-    - Kiosks near metro/bus stations
-    - IstanbulKart vending machines
-    - IstanbulKart Mobile App
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.belbim.istanbulkart&pcampaignid=web_share){:target="_blank"}
 
-Top-up & Check Balance:
+- [Apple App Store](https://apps.apple.com/tr/app/id1352307391){:target="_blank"}
 
-    Use the IstanbulKart app:
-        - Play Store
-        - App Store
+**Route Planning Apps**
 
-Navigation Apps for Istanbul
+For planning your routes, you can use the following apps:
 
-Istanbul Municipality’s Official Public Transport App
+**IETT "Otobüsüm Nerede" App:** This official app by IETT (İstanbul Electric Tramway and Tunnel) helps you find the best bus routes and track buses in real-time. Download the app here:
 
-    Istanbul Senin (İBB): Provides real-time transport info and route suggestions.
-        - Play Store
-        - App Store
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.iett.otobusumnerede&pcampaignid=web_share){:target="_blank"}
 
-Google Maps & Moovit: Can also be useful, but asking a local is advised.
+- [Apple App Store](https://apps.apple.com/tr/app/id1600651996){:target="_blank"}
 
--->
+**Google Maps:** Google Maps is also highly reliable for route planning in İstanbul. It provides detailed directions for public transportation, walking, and driving.
+
+**Tip:** While these apps are helpful, asking a local for directions can sometimes be the best way to navigate İstanbul's public transportation system.
+
 
 
 ## <a id="contact"></a>Contact Us
