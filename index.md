@@ -133,13 +133,28 @@ To be announced!
 
 ### How to Reach the Workshop Venue
 
-**From İstanbul Airport (IST):** Official taxis are available at the airport exits. You can also take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}. For more details, visit the [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}. Please note that the **M11 Metro Line has not yet been extended to the airport**.
+**From İstanbul Airport (IST):** 
+Official taxis are readily available at the airport exits for a convenient transfer to your destination. Alternatively, you can take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}, which provide reliable and affordable transportation options. For more detailed information, visit the official [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}.
 
-**From Sabiha Gökçen Airport (SAW):** Official taxis are available at the airport exits. You can also take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/havabus-en){:target="_blank"} to reach Kadıköy or Taksim. From Kadıköy, you can take a ferry to Beşiktaş. From Taksim, you can reach Beşiktaş by bus (various options available) or **Dolmuş** (shared taxi). Alternatively, you can take the **M4 Metro to Üsküdar** and then transfer to a ferry to Beşiktaş.
+Please note that the **M11 Metro Line** has not yet been extended to the airport, so metro access is currently unavailable for direct travel from IST.
+
+
+**From Sabiha Gökçen Airport (SAW):** Official taxis are available at the airport exits. You can also take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/havabus-en){:target="_blank"} to reach Kadıköy or Taksim. From Kadıköy, you can take a ferry to Beşiktaş. From Taksim, you can reach Beşiktaş by bus (multiple line are available) or Dolmuş (shared taxi). Alternatively, you can take the **M4 Metro to Üsküdar** and then transfer to a ferry to Beşiktaş.
 
 
 
 **From Istanbul Bus Station (Esenler Otogar):** 
+Please note that Esenler Otogar is the main terminal for intercity buses. However, depending on your bus company, you may have the option to disembark at an earlier station, which could make transferring to Beşiktaş more convenient. Additionally, some bus companies offer complimentary shuttle services directly to Beşiktaş, so be sure to check with your provider.
+
+If you arrive at Esenler Otogar, you can follow this route to reach Beşiktaş:
+
+    1. Take the **M1A Metro** heading to **Yenikapı**.
+
+    2. At Yenikapı, transfer to the **M2 Metro** and travel to **Taksim**.
+
+    3. From Taksim, take a bus (multiple lines are available) or a **Dolmuş** (shared taxi) to **Beşiktaş**.
+
+
 
 <!--
 **From Istanbul Airport (IST) → BAU South Campus (Beşiktaş)**:
