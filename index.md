@@ -141,8 +141,14 @@ Official taxis are readily available at the airport exits for a convenient trans
 Please note that the **M11 Metro Line** has not yet been extended to the airport, so metro access is currently unavailable for direct travel from IST.
 
 
-**From Sabiha Gökçen Airport (SAW):** Official taxis are available at the airport exits. You can also take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/havabus-en){:target="_blank"} to reach Kadıköy or Taksim. From Kadıköy, you can take a ferry to Beşiktaş. From Taksim, you can reach Beşiktaş by bus (multiple line are available) or Dolmuş (shared taxi). Alternatively, you can take the **M4 Metro to Üsküdar** and then transfer to a ferry to Beşiktaş.
+**From Sabiha Gökçen Airport (SAW):** 
+Official taxis are available at the airport exits for a direct transfer to your destination. Alternatively, you can take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/havabus-en){:target="_blank"} to reach **Kadıköy** or **Taksim**. 
 
+- From **Kadıköy**, you can take a ferry to **Beşiktaş**.
+
+- From **Taksim**, you can reach **Beşiktaş** by bus (multiple lines are available) or by **Dolmuş** (shared taxi).
+
+Another option is to take the **M4 Metro** to **Üsküdar** and then transfer to a ferry heading to **Beşiktaş**.
 
 
 **From Istanbul Bus Station (Esenler Otogar):** 
@@ -156,32 +162,7 @@ If you arrive at Esenler Otogar, you can follow this route to reach Beşiktaş:
 
 3. From Taksim, take a bus (multiple lines are available) or a **Dolmuş** (shared taxi) to **Beşiktaş**.
 
-
-
 <!--
-**From Istanbul Airport (IST) → BAU South Campus (Beşiktaş)**:
-
-- **Taxi**: Available outside the terminal.
-- [**Havaist Airport Shuttle**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}
-
-**Sabiha Gökçen Airport (SAW) → BAU South Campus (Beşiktaş)**:
-
-- **Taxi**: Available outside the terminal.
-- [Havaist Airport Shuttle](https://???){:target="_blank"}
--->
-
-<!-- Also we may mention about:
-    Metro & Bus:
-        1. Take M4 metro to Ayrılık Çeşmesi.
-        2. Transfer to Marmaray towards Sirkeci.
-        3. Take a ferry from Eminönü to Beşiktaş.
-
-From Istanbul Bus Station (Esenler Otogar) → BAU South Campus (Beşiktaş)
-
-    Metro & Bus:
-        1. Take M1A metro to Yenikapı.
-        2. Transfer to M2 metro to Taksim.
-        3. Take Bus DT2 or a Dolmuş to Beşiktaş.
 
 Getting an IstanbulKart (Public Transport Card)
 
