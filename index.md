@@ -150,11 +150,11 @@ Please note that Esenler Otogar is the main terminal for intercity buses. Howeve
 
 If you arrive at Esenler Otogar, you can follow this route to reach Beşiktaş:
 
-    1. Take the **M1A Metro** heading to **Yenikapı**.
+1. Take the **M1A Metro** heading to **Yenikapı**.
 
-    2. At Yenikapı, transfer to the **M2 Metro** and travel to **Taksim**.
+2. At Yenikapı, transfer to the **M2 Metro** and travel to **Taksim**.
 
-    3. From Taksim, take a bus (multiple lines are available) or a **Dolmuş** (shared taxi) to **Beşiktaş**.
+3. From Taksim, take a bus (multiple lines are available) or a **Dolmuş** (shared taxi) to **Beşiktaş**.
 
 
 
