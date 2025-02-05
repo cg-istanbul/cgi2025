@@ -133,11 +133,14 @@ To be announced!
 
 ### How to Reach the Workshop Venue
 
-**From İstanbul Airport (IST):** Official taxis are available at the airport exits. You can also take the [**Havaist Airport Buses**](https://www.hava.ist/?lang=en){:target="_blank"}. For more details, visit the [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}. Please note that the **M11 Metro Line has not yet been extended to the airport**.
+**From İstanbul Airport (IST):** Official taxis are available at the airport exits. You can also take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}. For more details, visit the [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}. Please note that the **M11 Metro Line has not yet been extended to the airport**.
 
-**From Sabiha Gökçen Airport (SAW):** Official taxis are available at the airport exits. You can also take the [**Havaist Airport Buses**](https://www.hava.ist/?lang=en){:target="_blank"}. Alternatively, you can take **M4 Metro to Üsküdar** and then transfer to a ferry to Beşiktaş.
+**From Sabiha Gökçen Airport (SAW):** Official taxis are available at the airport exits. You can also take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/havabus-en){:target="_blank"} to reach Kadıköy or Taksim. From Kadıköy, you can take a ferry to Beşiktaş. From Taksim, you can reach Beşiktaş by bus (various options available) or **Dolmuş** (shared taxi). Alternatively, you can take the **M4 Metro to Üsküdar** and then transfer to a ferry to Beşiktaş.
+
+
 
 **From Istanbul Bus Station (Esenler Otogar):** 
+
 <!--
 **From Istanbul Airport (IST) → BAU South Campus (Beşiktaş)**:
 
