@@ -11,8 +11,8 @@
         <li><a href="#accommodation">Accommodation</a></li>
         <li><a href="#register">Register</a></li>
         <li><a href="#schedule">Schedule</a></li>
-        <!--<li><a href="#directions">Directions</a></li>-->
-        <li><a href="#venue">Venue</a></li>
+        <li><a href="#directions">Directions</a></li>
+        <!--<li><a href="#venue">Venue</a></li>-->
         <li><a href="#contact">Contact</a></li>
         <li><a href="#sponsors">Sponsors</a></li>
     </ul>
@@ -116,9 +116,9 @@ You will need to upload:
 To be announced!
 
 
-<!--## <a id="directions"></a>Directions-->
+## <a id="directions"></a>Directions
 
-## <a id="venue"></a>Workshop Venue
+### Workshop Venue
 
 <div style="text-align: center;">
     <p style="margin: 0;"><strong>Bahçeşehir University (BAU) South Campus</strong></p>
@@ -130,9 +130,15 @@ To be announced!
     width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy">
 </iframe>  
 
-<!--
+
 ### How to Reach the Workshop Venue
 
+**From İstanbul Airport (IST):** Official taxis are available at the airport exits. You can also take the [**Havaist Airport Buses**](https://www.hava.ist/?lang=en){:target="_blank"}. For more details, visit the [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}. Please note that the **M11 Metro Line has not yet been extended to the airport**.
+
+**From Sabiha Gökçen Airport (SAW):** Official taxis are available at the airport exits. You can also take the [**Havaist Airport Buses**](https://www.hava.ist/?lang=en){:target="_blank"}. Alternatively, you can take **M4 Metro to Üsküdar** and then transfer to a ferry to Beşiktaş.
+
+**From Istanbul Bus Station (Esenler Otogar):** 
+<!--
 **From Istanbul Airport (IST) → BAU South Campus (Beşiktaş)**:
 
 - **Taxi**: Available outside the terminal.
