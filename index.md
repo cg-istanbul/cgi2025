@@ -174,7 +174,7 @@ You can also manage your İstanbulkart using the official İstanbulkart App, whi
 
 - [Apple App Store](https://apps.apple.com/tr/app/id1352307391){:target="_blank"}
 
-**Route Planning Apps**
+#### Route Planning Apps
 
 For planning your routes, you can use the following apps:
 
