@@ -57,8 +57,10 @@ We are delighted to convene this event in such a unique and inspiring location a
 
 For a comprehensive list of hotels in the Beşiktaş area, you may visit:
 
-- [Booking.com](https://www.booking.com/district/tr/istanbul/besiktas.html){:target="_blank"}
+<!--- [Booking.com](https://www.booking.com/district/tr/istanbul/besiktas.html){:target="_blank"}-->
 
+- [Hotels.com](https://www.hotels.com/nh1661016/hotels-in-besiktas-istanbul-turkey/){:target="_blank"}
+  
 - [TripAdvisor](https://www.tripadvisor.com/HotelsNear-g293974-d2037618-Besiktas-Istanbul.html){:target="_blank"}
 
 ### Reserved Rooms at BAU Kemerburgaz (Future) Campus
