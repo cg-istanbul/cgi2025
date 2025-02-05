@@ -142,7 +142,7 @@ Please note that the **M11 Metro Line** has not yet been extended to the airport
 
 
 **From Sabiha Gökçen Airport (SAW):** 
-Official taxis are available at the airport exits for a direct transfer to your destination. Alternatively, you can take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/havabus-en){:target="_blank"} to reach **Kadıköy** or **Taksim**. 
+Official taxis are available at the airport exits for a direct transfer to your destination. Alternatively, you can take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.havabus.com/){:target="_blank"} to reach **Kadıköy** or **Taksim**. 
 
 - From **Kadıköy**, you can take a ferry to **Beşiktaş**.
 
