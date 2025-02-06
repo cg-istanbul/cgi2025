@@ -47,7 +47,7 @@ We are delighted to convene this event in such a unique and inspiring location a
   
 - Müge Taşkın (Boğaziçi University)
   
-- Nermine Ahmed El Sissi (Bahçeşehir University)
+- Nermine El Sissi (Bahçeşehir University)
   
 - Selçuk Kayacan (Bahçeşehir University)
 
