@@ -1,32 +1,18 @@
 function initMap() {
-    const location = { lat: 41.042165, lng: 29.009259 }; // Bahçeşehir University coordinates
+    // Coordinates for Bahçeşehir University
+    const location = [41.042165, 29.009259];
 
-    const map = new google.maps.Map(document.getElementById("map"), {
-        center: location,
-        zoom: 15,  // Adjust zoom level
-        mapTypeId: "roadmap", // Use "hybrid", "satellite", "terrain", etc.
-        styles: [
-            {
-                featureType: "water",
-                elementType: "geometry",
-                stylers: [{ color: "#aadaff" }] // Custom blue water
-            },
-            {
-                featureType: "landscape",
-                elementType: "geometry",
-                stylers: [{ color: "#f0f0f0" }] // Light grey background
-            },
-            {
-                featureType: "road",
-                elementType: "geometry",
-                stylers: [{ color: "#ffffff" }] // White roads
-            }
-        ]
-    });
+    // Initialize the map
+    const map = L.map("map").setView(location, 15); // Centered at BAU with zoom level 15
 
-    new google.maps.Marker({
-        position: location,
-        map: map,
-        title: "Bahçeşehir University"
-    });
+    // Add a custom tile layer (you can choose different styles)
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Add a marker for Bahçeşehir University
+    L.marker(location).addTo(map)
+        .bindPopup("<b>Bahçeşehir University</b>")
+        .openPopup();
 }
+
