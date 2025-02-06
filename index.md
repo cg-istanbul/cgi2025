@@ -128,6 +128,12 @@ To be announced!
 </div>
 <span style="display: block; height: -10px;"></span>
 
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
 <div id="map" style="height: 400px;"></div>
 <script src="maps.js"></script> <!-- Include your updated maps.js -->
 
@@ -222,11 +228,7 @@ document.querySelector(".menu-toggle").addEventListener("click", function() {
 });
 </script>
 
-<!-- Leaflet CSS -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
-<!-- Leaflet JS -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script src="assets/js/maps.js"></script>
 
