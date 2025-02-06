@@ -220,4 +220,8 @@ document.querySelector(".menu-toggle").addEventListener("click", function() {
 });
 </script>
 
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initMap" async defer></script>
+<script src="assets/js/maps.js"></script>
+
+
 
