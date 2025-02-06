@@ -5,7 +5,7 @@ function initMap() {
     // Initialize the map
     const map = L.map("map").setView(location, 15); // Centered at BAU with zoom level 15
 
-    // Add a custom tile layer (you can choose different styles)
+    // Add a tile layer (standard OpenStreetMap tiles)
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
@@ -15,4 +15,8 @@ function initMap() {
         .bindPopup("<b>Bahçeşehir University</b>")
         .openPopup();
 }
+
+// Initialize the map when the page loads
+document.addEventListener("DOMContentLoaded", initMap);
+
 
