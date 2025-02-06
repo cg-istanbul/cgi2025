@@ -69,7 +69,7 @@ We have reserved a limited number of rooms for participants from outside İstanb
 
 ## <a id="register"></a>Registration
 
-Thanks to the generous support of our sponsors, the participation fee for the workshop is only **400 TL**. To register, please follow the steps below.
+Thanks to the generous support of our sponsors, the participation fee for the workshop is **400 TL**. To register, please follow the steps below.
 
 ### 1. Payment Details
 
@@ -148,19 +148,19 @@ To be announced!
 ### How to Reach the Workshop Venue
 
 **From İstanbul Airport (IST):** 
-Official taxis are readily available at the airport exits for a convenient transfer to your destination. Alternatively, you can take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}, which provide reliable and affordable transportation options. For more detailed information, visit the official [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}.
+Taxis are readily available at the airport exits for a convenient transfer to your destination. Alternatively, you can take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}, which provide reliable and affordable transportation options. For more detailed information, visit the official [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}.
 
 Please note that the **M11 Metro Line** has not yet been extended to the airport, so metro access is currently unavailable for direct travel from IST.
 
 
 **From Sabiha Gökçen Airport (SAW):** 
-Official taxis are available at the airport exits for a direct transfer to your destination. Alternatively, you can take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.havabus.com/){:target="_blank"} to reach **Kadıköy** or **Taksim**. 
+Taxis are available at the airport exits for a direct transfer to your destination. Alternatively, you can take [**Public Buses**](https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus){:target="_blank"} or the [**Havabus Shuttle**](https://www.havabus.com/){:target="_blank"} to reach **Kadıköy** or **Taksim**. 
 
 - From **Kadıköy**, you can take a ferry to **Beşiktaş**.
 
 - From **Taksim**, you can reach **Beşiktaş** by bus (multiple lines are available) or by **Dolmuş** (shared taxi).
 
-Another option is to take the **M4 Metro** to **Üsküdar** and then transfer to a ferry heading to **Beşiktaş**.
+Another option is to take the **M4 Metro** to **Kadıköy** and then transfer to a ferry heading to **Beşiktaş**.
 
 
 **From İstanbul Bus Station (Esenler Otogar):** 
