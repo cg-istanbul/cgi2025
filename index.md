@@ -220,7 +220,12 @@ document.querySelector(".menu-toggle").addEventListener("click", function() {
 });
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUZ94iPQx9N4PUWTeE-b3S92UHKATZqPo&callback=initMap" async defer></script>
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
 <script src="assets/js/maps.js"></script>
 
 
