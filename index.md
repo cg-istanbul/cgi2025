@@ -103,6 +103,7 @@ Thanks to the generous support of our sponsors, the participation fee for the wo
    - Include the following in the payment description:
      <span style="display: block; height: 1px;"></span>
       `Name Surname (CGI2025 participation fee)`
+     <span style="display: block; height: 1px;"></span>
    - Keep a copy of your payment receipt, as you will need to upload it during registration.  
 
 ### 2. Abstract Submission (Optional)
