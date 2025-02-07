@@ -9,6 +9,7 @@
         <li><a href="#speakers">Speakers</a></li>
         <li><a href="#committee">Committee</a></li>
         <li><a href="#accommodation">Accommodation</a></li>
+        <li><a href="#submission">Abstract Submission</a></li>
         <li><a href="#register">Register</a></li>
         <li><a href="#schedule">Schedule</a></li>
         <li><a href="#directions">Directions</a></li>
@@ -67,6 +68,56 @@ For a comprehensive list of hotels in the Beşiktaş area, you may visit:
 
 We have reserved a limited number of rooms for participants from outside İstanbul at the BAU Kemerburgaz (Future) Campus. If you wish to stay in these accommodations, please indicate "Yes" to the corresponding question in the registration form. Additional details will be collected upon your affirmative response.
 
+## <a id="submission"></a>Abstract Submission
+
+We invite participants to submit abstracts for contributed talks. Each talk will be 30 minutes long, including Q&A. If your talk cannot be accommodated in the schedule, you may be invited to present a poster instead.
+
+- **Abstract Submission Deadline**: June 30, 2025  
+- **Notification of Acceptance**: July 15, 2025  
+
+### Submission Guidelines:
+1. Download the abstract template: [Download abstract_template.tex](https://www.dropbox.com/scl/fi/5vnj4nk6twyatkvpn986v/abstract_template.tex?rlkey=mod0a5iboivd1uw3xjjvfolyh&dl=1)
+2. Format your abstract using the provided template.
+3. Upload your abstract (both TEX and PDF files) during the registration process.
+
+Please indicate in the registration form if you are willing to present a poster in case your talk cannot be scheduled.
+
+## <a id="register"></a>Registration
+
+Thanks to the generous support of our sponsors, the participation fee for the workshop is 400 TL. To register, please follow the steps below.
+
+### Important Dates:
+- **Abstract Submission Deadline**: June 30, 2025  
+- **Notification of Acceptance**: July 15, 2025  
+
+### Steps to Register:
+1. **Payment Details**:  
+   Participants must transfer 400 TL to the following bank account:  
+   - **Account Name**: BAHÇEŞEHİR ÜNİVERSİTESİ  
+   - **Bank Name**: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE  
+   - **IBAN**: TR45 0013 4000 0019 9214 6006 78
+
+   **Important**:  
+   - Include the following in the payment description: **Name Surname (CGI2025 participation fee)**  
+   - Keep a copy of your payment receipt, as you will need to upload it during registration.  
+
+2. **Abstract Submission (Optional)**:  
+   If you would like to present a talk, please download the abstract template, format your abstract, and upload both the TEX and PDF files during registration.  
+
+3. **Complete Your Registration**:  
+   Click the link below to proceed with registration. You will be asked to fill in your details and upload the required documents.
+   
+<div class="center-button">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview" target="_blank" class="btn">Register Now</a>
+</div>
+
+   **Documents to Upload**:  
+   - Your bank payment receipt  
+   - Your abstract_template.tex file (only if you are giving a talk)  
+   - Your compiled PDF file (only if you are giving a talk)
+  
+
+<!--
 ## <a id="register"></a>Registration
 
 Thanks to the generous support of our sponsors, the participation fee for the workshop is **400 TL**. To register, please follow the steps below.
@@ -112,6 +163,8 @@ You will need to upload:
 - Your bank payment receipt
 - Your abstract_template.tex file (only if you are giving a talk)
 - Your compiled PDF file (only if you are giving a talk)
+-->
+
 
 ## <a id="schedule"></a>Workshop Schedule and Sessions  
 
