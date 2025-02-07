@@ -72,12 +72,17 @@ We have reserved a limited number of rooms for participants from outside İstanb
 
 We invite participants to submit abstracts for contributed talks. Each talk will be 30 minutes long, including Q&A. If your talk cannot be accommodated in the schedule, you may be invited to present a poster instead.
 
+### Important Dates
+
 - **Abstract Submission Deadline**: June 30, 2025  
 - **Notification of Acceptance**: July 15, 2025  
 
-### Submission Guidelines:
+### Submission Guidelines
+
 1. Download the abstract template: [Download abstract_template.tex](https://www.dropbox.com/scl/fi/5vnj4nk6twyatkvpn986v/abstract_template.tex?rlkey=mod0a5iboivd1uw3xjjvfolyh&dl=1)
+
 2. Format your abstract using the provided template.
+
 3. Upload your abstract (both TEX and PDF files) during the registration process.
 
 Please indicate in the registration form if you are willing to present a poster in case your talk cannot be scheduled.
@@ -86,25 +91,30 @@ Please indicate in the registration form if you are willing to present a poster 
 
 Thanks to the generous support of our sponsors, the participation fee for the workshop is 400 TL. To register, please follow the steps below.
 
-### Important Dates:
-- **Abstract Submission Deadline**: June 30, 2025  
-- **Notification of Acceptance**: July 15, 2025  
+### 1. Payment Details
 
-### Steps to Register:
-1. **Payment Details**:  
    Participants must transfer 400 TL to the following bank account:  
    - **Account Name**: BAHÇEŞEHİR ÜNİVERSİTESİ  
    - **Bank Name**: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE  
    - **IBAN**: TR45 0013 4000 0019 9214 6006 78
 
    **Important**:  
-   - Include the following in the payment description: **Name Surname (CGI2025 participation fee)**  
+   
+   - Include the following in the payment description:
+     <span style="display: block; height: 1px;"></span>
+      `Name Surname (CGI2025 participation fee)`
+     
    - Keep a copy of your payment receipt, as you will need to upload it during registration.  
 
-2. **Abstract Submission (Optional)**:  
-   If you would like to present a talk, please download the abstract template, format your abstract, and upload both the TEX and PDF files during registration.  
+### 2. Abstract Submission (Optional)
 
-3. **Complete Your Registration**:  
+If you would like to present a talk, please follow the **Submission Guidelines** under the <a href="#submission">Abstract Submission</a> section. This includes downloading the abstract template, formatting your abstract, and uploading both the TEX and PDF files during registration.
+
+Please indicate in the registration form if you are willing to present a poster in case your talk cannot be scheduled.
+ 
+
+### 3. Complete Your Registration
+
    Click the link below to proceed with registration. You will be asked to fill in your details and upload the required documents.
    
 <div class="center-button">
