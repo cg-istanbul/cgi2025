@@ -74,7 +74,8 @@ We invite participants to submit abstracts for contributed talks. Each talk will
 
 ### Important Dates
 
-- **Abstract Submission Deadline**: June 30, 2025  
+- **Abstract Submission Deadline**: June 30, 2025
+  
 - **Notification of Acceptance**: July 15, 2025  
 
 ### Submission Guidelines
@@ -98,12 +99,10 @@ Thanks to the generous support of our sponsors, the participation fee for the wo
    - **Bank Name**: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE  
    - **IBAN**: TR45 0013 4000 0019 9214 6006 78
 
-   **Important**:  
-   
+   **Important**:     
    - Include the following in the payment description:
      <span style="display: block; height: 1px;"></span>
-      `Name Surname (CGI2025 participation fee)`
-     
+      `Name Surname (CGI2025 participation fee)`     
    - Keep a copy of your payment receipt, as you will need to upload it during registration.  
 
 ### 2. Abstract Submission (Optional)
