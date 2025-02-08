@@ -74,6 +74,8 @@ We invite participants to submit abstracts for contributed talks. Each talk will
 
 ### Important Dates
 
+- **Workshop**: August 5-6, 2025
+  
 - **Abstract Submission Deadline**: June 30, 2025
   
 - **Notification of Acceptance**: July 15, 2025  
