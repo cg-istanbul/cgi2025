@@ -253,7 +253,7 @@ You can also manage your İstanbulkart using the official İstanbulkart App, whi
 
 For planning your routes, you can use the following apps:
 
-**IETT "Otobüsüm Nerede" App:** This official app by IETT (İstanbul Electric Tramway and Tunnel) helps you find the best bus routes and track buses in real-time. Download the app here:
+**İETT "Otobüsüm Nerede" App:** This official app by İETT (İstanbul Electric Tramway and Tunnel) helps you find the best bus routes and track buses in real-time. Download the app here:
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.iett.otobusumnerede&pcampaignid=web_share){:target="_blank"}
 
