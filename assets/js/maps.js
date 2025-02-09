@@ -15,14 +15,13 @@ function initMap() {
     //     attribution: '&copy; <a href="https://carto.com/">Carto</a> contributors',
     // }).addTo(map);
 
-    L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://stamen.com/">Stamen Design</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         subdomains: 'abcd',
-        minZoom: 0,
-        maxZoom: 20,
-        ext: 'png'
+        maxZoom: 20
     }).addTo(map);
 
+    
     // Add a marker for Bahçeşehir University
     L.marker(location).addTo(map)
         .bindPopup("<b>Bahçeşehir University</b>")
