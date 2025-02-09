@@ -15,8 +15,12 @@ function initMap() {
     //     attribution: '&copy; <a href="https://carto.com/">Carto</a> contributors',
     // }).addTo(map);
 
-    L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://stamen.com/">Stamen Design</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        subdomains: 'abcd',
+        minZoom: 0,
+        maxZoom: 20,
+        ext: 'png'
     }).addTo(map);
 
     // Add a marker for Bahçeşehir University
