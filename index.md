@@ -202,6 +202,14 @@ To be announced!
 <div id="map" style="height: 400px;"></div>
 <script src="assets/js/maps.js"></script> <!-- Ensure this path is correct -->
 
+<iframe 
+    width="600" 
+    height="400" 
+    frameborder="0" 
+    style="border:0;" 
+    src="https://www.bing.com/maps/embed?h=400&w=600&cp=41.0432~29.0092&lvl=15&typ=d&sty=r&src=SHELL&FORM=MBEDV8" 
+    allowfullscreen>
+</iframe>
 
 
 <!--<iframe 
