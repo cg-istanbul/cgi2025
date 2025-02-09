@@ -202,20 +202,20 @@ To be announced!
 <div id="map" style="height: 400px;"></div>
 <script src="assets/js/maps.js"></script> <!-- Ensure this path is correct -->
 
-<iframe 
+<!-- <iframe 
     width="600" 
     height="400" 
     frameborder="0" 
     style="border:0;" 
     src="https://www.bing.com/maps/embed?h=400&w=600&cp=41.0432~29.0092&lvl=15&typ=d&sty=r&src=SHELL&FORM=MBEDV8" 
     allowfullscreen>
-</iframe>
+</iframe> -->
 
 
-<!--<iframe 
+<!-- <iframe 
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2691.847578638042!2d29.009259099999998!3d41.042165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7a2a2c3b963%3A0x7671d1b9817b8519!2zQmFow6dlxZ9laGlyIMOcbml2ZXJzaXRlc2k!5e1!3m2!1str!2str!4v1738333570411!5m2!1str!2str&t=m"
     width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy">
-</iframe>  -->
+</iframe> -->
 
 
 ### How to Reach the Workshop Venue
