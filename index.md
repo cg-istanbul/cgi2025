@@ -294,6 +294,9 @@ For any inquiries, feel free to contact us at:
     <a href="https://bau.edu.tr/" target="_blank">
         <img src="assets/images/bau.jpg" alt="Sponsor 3" class="sponsor-logo">
     </a>
+    <a href="https://tmd.org.tr/language/en/" target="_blank">
+        <img src="assets/images/MAD_logo.png" alt="Sponsor 4" class="sponsor-logo">
+    </a>
 </div>
 
 
