@@ -53,7 +53,7 @@ We are delighted to convene this event in such a unique and inspiring location a
   
 - Selçuk Kayacan (Bahçeşehir University)
 
-## <a href="#accommodation"></a>Accommodation
+## <a id="accommodation"></a>Accommodation
 
 ### Hotels in the Beşiktaş Area
 
@@ -70,7 +70,7 @@ For a comprehensive list of hotels in the Beşiktaş area, you may visit:
 We have reserved a limited number of rooms for participants from outside İstanbul at the BAU Kemerburgaz (Future) Campus. If you wish to stay in these accommodations, please indicate "Yes" to the corresponding question in the registration form. Additional details will be collected upon your affirmative response.
 
 
-## <a href="summerschool"></a>Summer School: Topics in Algebraic and Geometric Combinatorics
+## <a id="summerschool"></a>Summer School: Topics in Algebraic and Geometric Combinatorics
 
 In preparation for the Combinatorics and Geometry in İstanbul workshop, we are organizing **"Topics in Algebraic and Geometric Combinatorics"** summer school at Feza Gürsey Center for Physics and Mathematics.
 
