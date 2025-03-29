@@ -74,7 +74,7 @@ We have reserved a limited number of rooms for participants from outside İstanb
 
 In preparation for the Combinatorics and Geometry in İstanbul workshop, we are organizing **"Topics in Algebraic and Geometric Combinatorics"** summer school at Feza Gürsey Center for Physics and Mathematics.
 
-For more details and registration, please visit: [Summer School 2025 Website](https://cg-istanbul.github.io/summer-school2025/)
+For more details and registration, please visit: [Summer School Website](https://cg-istanbul.github.io/summer-school2025/)
 
 
 ## <a id="submission"></a>Abstract Submission
