@@ -9,6 +9,7 @@
         <li><a href="#speakers">Speakers</a></li>
         <li><a href="#committee">Committee</a></li>
         <li><a href="#accommodation">Accommodation</a></li>
+        <li><a href="#summerschool">Summer School</a></li>
         <li><a href="#submission">Abstract Submission</a></li>
         <li><a href="#register">Register</a></li>
         <li><a href="#schedule">Schedule</a></li>
@@ -68,6 +69,14 @@ For a comprehensive list of hotels in the Beşiktaş area, you may visit:
 
 We have reserved a limited number of rooms for participants from outside İstanbul at the BAU Kemerburgaz (Future) Campus. If you wish to stay in these accommodations, please indicate "Yes" to the corresponding question in the registration form. Additional details will be collected upon your affirmative response.
 
+
+## <a href="#summerschool"></a>Summer School 2025: Topics in Algebraic and Geometric Combinatorics
+
+In preparation for the Combinatorics and Geometry in İstanbul workshop, we are organizing **"Topics in Algebraic and Geometric Combinatorics"** summer school at Feza Gürsey Center for Physics and Mathematics.
+
+For more details and registration, please visit the summer school website: [Summer School 2025 Website](https://cg-istanbul.github.io/summer-school2025/)
+
+
 ## <a id="submission"></a>Abstract Submission
 
 We invite participants to submit abstracts for contributed talks. Each talk will be 30 minutes long, including Q&A. If your talk cannot be accommodated in the schedule, you may be invited to present a poster instead.
@@ -75,10 +84,13 @@ We invite participants to submit abstracts for contributed talks. Each talk will
 ### Important Dates
 
 - **Workshop**: August 5-6, 2025
+
+- **Summer School**: June 23-27, 2025
   
 - **Abstract Submission Deadline**: June 30, 2025
   
-- **Notification of Acceptance**: July 15, 2025  
+- **Notification of Acceptance**: July 15, 2025
+  
 
 ### Submission Guidelines
 
