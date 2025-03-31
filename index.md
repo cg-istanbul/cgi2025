@@ -33,6 +33,8 @@ We are delighted to convene this event in such a unique and inspiring location a
 - Ayesha Asloob Qureshi (Sabancı University)
   
 - Martina Juhnke (University of Osnabrück)
+
+- Mikhail Ostrovskii (St. John's University)
   
 - Russ Woodroofe (University of Primorska FAMNIT) [TBC]
 
