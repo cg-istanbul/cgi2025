@@ -36,7 +36,7 @@ We are delighted to convene this event in such a unique and inspiring location a
 
 - Mikhail Ostrovskii (St. John's University)
   
-- Russ Woodroofe (University of Primorska FAMNIT) [TBC]
+- Russ Woodroofe (University of Primorska FAMNIT)
 
 - Tolga Birdal (Imperial College London)
   
