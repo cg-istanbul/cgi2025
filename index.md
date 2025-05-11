@@ -106,41 +106,18 @@ Please indicate in the registration form if you are willing to present a poster 
 
 ## <a id="register"></a>Registration
 
-Thanks to the generous support of our sponsors, the participation fee for the workshop is 400 TL. To register, please follow the steps below.
+**Thanks to additional sponsorship support, participation in the workshop is now free of charge.**  
+However, all participants are still required to complete the registration process.
 
-### 1. Payment Details
-
-   Participants must transfer 400 TL to the following bank account:  
-   - **Account Name**: BAHÇEŞEHİR ÜNİVERSİTESİ  
-   - **Bank Name**: DENİZBANK / SURDIŞI TİCARİ MERKEZ ŞUBE  
-   - **IBAN**: TR45 0013 4000 0019 9214 6006 78
-
-   **Important**:     
-   - Include the following in the payment description:
-     <span style="display: block; height: 1px;"></span>
-      `Name Surname (CGI2025 participation fee)`
-     <span style="display: block; height: 5px;"></span>
-   - Keep a copy of your payment receipt, as you will need to upload it during registration.  
-
-### 2. Abstract Submission (Optional)
-
-If you would like to present a talk, please follow the **Submission Guidelines** under the <a href="#submission">Abstract Submission</a> section. This includes downloading the abstract template, formatting your abstract, and uploading both the TEX and PDF files during registration.
-
-Please indicate in the registration form if you are willing to present a poster in case your talk cannot be scheduled.
- 
-
-### 3. Complete Your Registration
-
-   Click the link below to proceed with registration. You will be asked to fill in your details and upload the required documents.
+Click the link below to proceed with registration. You will be asked to fill in your details and (if applicable) upload your abstract files.
    
 <div class="center-button">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1xg0MDgAUfiAWm_2IhGoJfB9bJ7-6cGuTmxXuNYDvxqMLWw/viewform?usp=preview" target="_blank" class="btn">Register Now</a>
 </div>
 
-   **Documents to Upload**:  
-   - Your bank payment receipt  
-   - Your abstract_template.tex file (only if you are giving a talk)  
-   - Your compiled PDF file (only if you are giving a talk)
+   **Documents to Upload (only if giving a talk):**  
+   - Your abstract_template.tex file 
+   - Your compiled PDF file
   
 
 <!--
