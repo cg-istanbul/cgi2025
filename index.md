@@ -21,9 +21,12 @@
 </nav>
 
 
-Welcome to the "Combinatorics and Geometry in İstanbul" workshop, taking place on August 5 and 6 in the enchanting city of İstanbul. This two-day event is dedicated to bringing together researchers and enthusiasts in the fields of algebra, combinatorics, and geometry, fostering collaboration and the exchange of ideas in a vibrant academic setting.
+Welcome to the “Combinatorics and Geometry in İstanbul” workshop, taking place on August 5–6 in the enchanting city of İstanbul. This two-day event brings together researchers and enthusiasts working at the intersection of algebra, combinatorics, and geometry, aiming to foster collaboration and the exchange of ideas in a vibrant academic setting.
 
-The mornings will be highlighted by talks from our invited speakers, who will share their latest insights and advancements in their respective fields. In the afternoons, we will host a series of contributed talks, offering participants an opportunity to present their work and spark meaningful discussions.
+The program features a rich collection of talks by both invited and contributing participants, highlighting recent developments and open problems across a range of topics. We hope to provide a stimulating environment for sharing ideas, initiating new collaborations, and deepening our understanding of these interconnected fields.
+
+<!--We are delighted to host this event in such a unique and inspiring location and look forward to two days of engaging mathematical exchange.
+The mornings will be highlighted by talks from our invited speakers, who will share their latest insights and advancements in their respective fields. In the afternoons, we will host a series of contributed talks, offering participants an opportunity to present their work and spark meaningful discussions.-->
 
 We are delighted to convene this event in such a unique and inspiring location and look forward to two days of stimulating academic exchange and collaboration.
 
