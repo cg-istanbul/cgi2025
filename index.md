@@ -214,10 +214,8 @@ To be announced!
 
 ### How to Reach the Workshop Venue
 
-**From İstanbul Airport (IST):** 
-Taxis are readily available at the airport exits for a convenient transfer to your destination. Alternatively, you can take the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"}, which provide reliable and affordable transportation options. For more detailed information, visit the official [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}.
-
-Please note that the **M11 Metro Line** has not yet been extended to the airport, so metro access is currently unavailable for direct travel from IST.
+**From İstanbul Airport (IST):**
+Taxis are readily available at the airport exits for a convenient transfer to your destination. You can also take the [**M11 Metro Line**](https://istanbul-international-airport.com/metro/){:target="_blank"} to Gayrettepe, then transfer to a municipal bus to Beşiktaş. Alternatively, the [**Havaist Airport Buses**](https://www.hava.ist/sefer-saatleri.php){:target="_blank"} provide a reliable and affordable option for reaching various parts of the city. For further details, you can visit the official [**İstanbul Airport website**](https://istanbul-international-airport.com/transportation/bus/){:target="_blank"}.
 
 
 **From Sabiha Gökçen Airport (SAW):** 
