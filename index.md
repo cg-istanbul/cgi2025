@@ -12,7 +12,7 @@
         <li><a href="#summerschool">Summer School</a></li>
         <li><a href="#submission">Abstract Submission</a></li>
         <li><a href="#register">Register</a></li>
-        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#schedule">Schedule and Abstracts</a></li>
         <li><a href="#directions">Directions</a></li>
         <!--<li><a href="#venue">Venue</a></li>-->
         <li><a href="#contact">Contact</a></li>
@@ -172,9 +172,10 @@ You will need to upload:
 -->
 
 
-## <a id="schedule"></a>Workshop Schedule and Sessions  
+## <a id="schedule"></a>Schedule and Abstracts
 
-To be announced!
+The workshop schedule as well as the abstracts can be found in the workshop booklet.  
+You can download the workshop booklet [here](assets/CGI_2025_booklet.pdf).
 
 
 ## <a id="directions"></a>Directions
