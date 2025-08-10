@@ -28,7 +28,7 @@ The workshop has ended now and it was a great pleasure for us to host this event
 
 Thank you all for your valuable contributions.
 
-We collected some of the photos from the workshop [here](https://drive.google.com/drive/folders/1S7YnB2gHgXumKD5yclocad6rdLD6BjQ2?usp=drive_link).
+We collected some of the photos from the workshop [here](https://drive.google.com/drive/folders/1S7YnB2gHgXumKD5yclocad6rdLD6BjQ2?usp=sharing).
 
 ---
 
