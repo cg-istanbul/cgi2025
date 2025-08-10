@@ -21,7 +21,6 @@
 </nav>
 
 ---
-
 ### Workshop Photos
 
 The workshop has ended now and it was a great pleasure for us to host this event. We believe "Combinatorics and Geometry in İstanbul" provided an excellent opportunity for meeting new colleagues, exchanging ideas, and enjoying a rich variety of stimulating talks.
@@ -31,6 +30,8 @@ Thank you all for your valuable contributions.
 We collected some of the photos from the workshop [here](https://drive.google.com/drive/folders/1S7YnB2gHgXumKD5yclocad6rdLD6BjQ2?usp=sharing).
 
 ---
+
+## About
 
 Welcome to the “Combinatorics and Geometry in İstanbul” workshop, taking place on August 5–6 in the enchanting city of İstanbul. This two-day event brings together researchers and enthusiasts working at the intersection of algebra, combinatorics, and geometry, aiming to foster collaboration and the exchange of ideas in a vibrant academic setting.
 
